@@ -1,0 +1,1001 @@
+Ranking,Name,Year,Votes,Genre_1,Genre_2,Genre_3
+1,The Last of Us,2013,63580,Action,Adventure,Drama
+2,Grand Theft Auto V,2013,62492,Action,Comedy,Crime
+3,Grand Theft Auto: San Andreas,2004,40606,Action,Crime,
+4,Red Dead Redemption II,2018,39717,Action,Adventure,Crime
+5,Grand Theft Auto IV,2008,35206,Action,Crime,Drama
+6,The Last of Us: Part II,2020,32505,Action,Adventure,Drama
+7,Batman: Arkham City,2011,31686,Action,Adventure,Crime
+8,The Elder Scrolls V: Skyrim,2011,30500,Action,Adventure,Fantasy
+9,Uncharted 4: A Thief's End,2016,30350,Action,Adventure,Drama
+10,God of War,2018,30086,Action,Adventure,Drama
+11,Batman: Arkham Asylum,2009,28417,Action,Adventure,Crime
+12,The Witcher 3: Wild Hunt,2015,27922,Action,Adventure,Drama
+13,Red Dead Redemption,2010,27344,Action,Adventure,Crime
+14,Grand Theft Auto: Vice City,2002,27047,Action,Crime,Drama
+15,Uncharted 2: Among Thieves,2009,25772,Action,Adventure,Fantasy
+16,Call of Duty: Modern Warfare 2,2009,24101,Action,Thriller,
+17,Assassin's Creed II,2009,23706,Action,Adventure,Sci-Fi
+18,Call of Duty: Modern Warfare,2007,22947,Action,Thriller,
+19,Spider-Man,2018,22722,Action,Adventure,Fantasy
+20,Uncharted 3: Drake's Deception,2011,22595,Action,Adventure,Fantasy
+21,Uncharted: Drake's Fortune,2007,20943,Action,Adventure,Fantasy
+22,BioShock Infinite,2013,20562,Action,Adventure,Drama
+23,Mass Effect 2,2010,20258,Action,Adventure,Drama
+24,BioShock,2007,20235,Action,Adventure,Horror
+25,Batman: Arkham Knight,2015,20111,Action,Adventure,Crime
+26,Call of Duty: Black Ops,2010,19672,Action,Horror,Thriller
+27,Far Cry 3,2012,19369,Action,Adventure,Crime
+28,Fallout 3,2008,19184,Action,Adventure,Sci-Fi
+29,Assassin's Creed,2007,18997,Action,Adventure,Sci-Fi
+30,Tomb Raider,2013,18927,Action,Adventure,Fantasy
+31,Mass Effect,2007,18535,Action,Adventure,Drama
+32,Call of Duty: Modern Warfare 3,2011,18408,Action,Thriller,
+33,Detroit: Become Human,2018,18161,Action,Adventure,Drama
+34,Assassin's Creed IV: Black Flag,2013,17523,Action,Adventure,History
+35,Assassin's Creed III,2012,17292,Action,Adventure,History
+36,Half-Life 2,2004,16398,Action,Adventure,Sci-Fi
+37,Portal 2,2011,16057,Adventure,Comedy,Sci-Fi
+38,Grand Theft Auto III,2001,16006,Action,Crime,Drama
+39,Assassin's Creed: Brotherhood,2010,15972,Action,Adventure,History
+40,Mass Effect 3,2012,15844,Action,Adventure,Drama
+41,L.A. Noire,2011,15687,Action,Crime,Drama
+42,Horizon Zero Dawn,2017,15531,Action,Adventure,Sci-Fi
+43,Max Payne,2001,15269,Action,Crime,Drama
+44,Until Dawn,2015,15140,Horror,Mystery,Thriller
+45,Call of Duty: Black Ops II,2012,14339,Action,Adventure,Horror
+46,Batman: Arkham Origins,2013,14016,Action,Adventure,Crime
+47,Batman Begins,2005,13867,Action,Adventure,Crime
+48,Heavy Rain,2010,13775,Crime,Drama,Mystery
+49,Resident Evil 4,2005,13566,Action,Adventure,Fantasy
+50,Assassin's Creed: Revelations,2011,13418,Action,Adventure,History
+51,Fallout 4,2015,13233,Action,Adventure,Sci-Fi
+52,The Walking Dead,2012,13173,Drama,Horror,Sci-Fi
+53,Portal,2007,13100,Adventure,Comedy,Sci-Fi
+54,Fallout: New Vegas,2010,12611,Action,Adventure,Sci-Fi
+55,Star Wars Jedi: Fallen Order,2019,12567,Action,Adventure,Drama
+56,The Elder Scrolls IV: Oblivion,2006,12462,Action,Adventure,Fantasy
+57,Life Is Strange,2015,12285,Drama,Mystery,Sci-Fi
+58,Beyond: Two Souls,2013,12176,Action,Adventure,Drama
+59,Halo 3,2007,12092,Action,Adventure,Sci-Fi
+60,Pirates of the Caribbean: The Legend of Jack Sparrow,2006,12023,Action,Adventure,Fantasy
+61,Metal Gear Solid,1998,11971,Action,Adventure,Drama
+62,The Fifth Element,1998,11962,Action,Adventure,Sci-Fi
+63,Call of Duty: World at War,2008,11900,Action,Horror,Thriller
+64,Minecraft,2009,11548,Action,Adventure,Family
+65,Halo: Combat Evolved,2001,11414,Action,Adventure,Sci-Fi
+66,God of War III,2010,11122,Action,Adventure,Fantasy
+67,Max Payne 2: The Fall of Max Payne,2003,10873,Action,Crime,Drama
+68,Metal Gear Solid 4: Guns of the Patriots,2008,10743,Action,Adventure,Drama
+69,Final Fantasy VII,1997,10727,Action,Adventure,Drama
+70,God of War,2005,10712,Action,Adventure,Fantasy
+71,Max Payne 3,2012,10711,Action,Crime,Drama
+72,Mafia II,2010,10627,Action,Crime,Drama
+73,Metal Gear Solid 3: Snake Eater,2004,10615,Action,Adventure,Drama
+74,Half-Life,1998,10387,Action,Sci-Fi,Thriller
+75,The Last of Us: Left Behind,2014,10228,Action,Adventure,Drama
+76,Ghost of Tsushima,2020,10129,Action,Adventure,Drama
+77,Cyberpunk 2077,2020,10118,Action,Crime,Drama
+78,Far Cry 4,2014,10035,Action,Adventure,Crime
+79,The Legend of Zelda: Ocarina of Time,1998,9785,Action,Adventure,Fantasy
+80,BioShock 2,2010,9780,Action,Adventure,Horror
+81,Dead Space,2008,9778,Action,Horror,Mystery
+82,Halo 2,2004,9771,Action,Adventure,Sci-Fi
+83,Rise of the Tomb Raider,2015,9733,Action,Adventure,Fantasy
+84,Quantum of Solace,2008,9609,Action,Adventure,Thriller
+85,God of War II,2007,9601,Action,Adventure,Fantasy
+86,Battlefield 3,2011,9053,Action,Adventure,War
+87,Watch Dogs,2014,8993,Action,Crime,Drama
+88,Dishonored,2012,8917,Action,Adventure,Fantasy
+89,Death Stranding,2019,8852,Action,Adventure,Drama
+90,Call of Duty: Ghosts,2013,8839,Action,Thriller,
+91,Gears of War,2006,8829,Action,Sci-Fi,War
+92,God of War: RagnarÃ¶k,2022,8817,Action,Adventure,Drama
+93,Star Wars: Knights of the Old Republic,2003,8750,Action,Adventure,Fantasy
+94,Metal Gear Solid 2: Sons of Liberty,2001,8672,Action,Adventure,Drama
+95,Resident Evil 5,2009,8636,Action,Adventure,Fantasy
+96,Assassin's Creed: Origins,2017,8411,Action,Adventure,Fantasy
+97,The Witcher 3: Wild Hunt - Blood and Wine,2016,8302,Action,Adventure,Drama
+98,Resident Evil VII: Biohazard,2017,8186,Action,Crime,Drama
+99,Final Fantasy X,2001,8087,Adventure,Fantasy,Romance
+100,Dragon Age: Origins,2009,8077,Action,Adventure,Fantasy
+101,Call of Duty: Advanced Warfare,2014,7991,Action,Adventure,Drama
+102,The Legend of Zelda: Breath of the Wild,2017,7737,Action,Adventure,Fantasy
+103,Metal Gear Solid V: The Phantom Pain,2015,7721,Action,Adventure,Drama
+104,Assassin's Creed: Odyssey,2018,7709,Action,Adventure,Fantasy
+105,Resident Evil 2,2019,7608,Action,Crime,Horror
+106,Uncharted: The Lost Legacy,2017,7582,Action,Adventure,Thriller
+107,Star Wars: The Force Unleashed,2008,7540,Action,Adventure,Fantasy
+108,Kingdom Hearts,2002,7453,Action,Adventure,Family
+109,The Walking Dead: Season Two,2013,7406,Drama,Horror,Thriller
+110,Far Cry 5,2018,7373,Action,Adventure,Crime
+111,The Wolf Among Us,2013,7363,Action,Crime,Drama
+112,Battlefield 4,2013,7354,Action,Adventure,War
+113,Assassin's Creed: Unity,2014,7292,Action,Adventure,History
+114,Kingdom Hearts II,2005,7250,Action,Adventure,Family
+115,Call of Duty: Black Ops III,2015,7147,Action,Horror,Sci-Fi
+116,Fortnite,2017,7137,Action,Adventure,Comedy
+117,Need for Speed: Most Wanted,2005,7096,Action,Crime,Sport
+118,Sleeping Dogs,2012,7076,Action,Crime,Drama
+119,Halo: Reach,2010,7031,Action,Adventure,Sci-Fi
+120,Halo 4,2012,7018,Action,Adventure,Sci-Fi
+121,Spider-Man: Miles Morales,2020,6995,Action,Adventure,Fantasy
+122,Call of Duty,2003,6951,Action,Adventure,War
+123,Left 4 Dead 2,2009,6949,Action,Horror,
+124,Battlefield 1,2016,6914,Action,Adventure,War
+125,Call of Duty 2,2005,6913,Action,War,
+126,The Witcher 3: Wild Hunt - Hearts of Stone,2015,6911,Action,Adventure,Drama
+127,Silent Hill 2,2001,6850,Drama,Horror,Mystery
+128,Star Wars: Battlefront II,2005,6847,Action,Adventure,Sci-Fi
+129,Star Wars: Battlefront II,2017,6818,Action,Adventure,Fantasy
+130,Dead Space 2,2011,6750,Action,Horror,Sci-Fi
+131,Assassin's Creed: Syndicate,2015,6721,Action,Adventure,Crime
+132,Call of Duty: WWII,2017,6628,Action,Drama,Horror
+133,Hitman: Absolution,2012,6572,Action,Crime,Drama
+134,Borderlands 2,2012,6545,Action,Adventure,Comedy
+135,Days Gone,2019,6524,Action,Adventure,Drama
+136,Injustice: Gods Among Us,2013,6484,Action,Adventure,Fantasy
+137,Super Mario Bros.,1985,6387,Action,Adventure,Fantasy
+138,Half-Life 2: Episode Two,2007,6353,Action,Adventure,Sci-Fi
+139,Super Mario 64,1996,6320,Action,Adventure,Comedy
+140,Saints Row: The Third,2011,6252,Action,Comedy,Crime
+141,Doom,2016,6232,Action,Fantasy,Horror
+142,Final Fantasy VIII,1999,6159,Action,Adventure,Drama
+143,Left 4 Dead,2008,6143,Action,Horror,
+144,Alan Wake,2010,6045,Action,Adventure,Horror
+145,Mafia: The City of Lost Heaven,2002,6036,Action,Crime,Drama
+146,Resident Evil 2,1998,5997,Action,Horror,Sci-Fi
+147,The Witcher 2: Assassins of Kings,2011,5977,Action,Adventure,Drama
+148,Bloodborne,2015,5907,Action,Adventure,Fantasy
+149,Wolfenstein: The New Order,2014,5820,Action,Adventure,Drama
+150,Silent Hill,1999,5818,Drama,Horror,Mystery
+151,Middle-Earth: Shadow of Mordor,2014,5807,Action,Adventure,Fantasy
+152,Call of Duty: Modern Warfare,2019,5788,Action,Drama,Thriller
+153,World of Warcraft,2004,5713,Action,Adventure,Fantasy
+154,Limbo,2010,5704,Adventure,Horror,Mystery
+155,Elden Ring,2022,5698,Action,Adventure,Fantasy
+156,GoldenEye 007,1997,5690,Action,Adventure,Thriller
+157,Deus Ex: Human Revolution,2011,5657,Action,Adventure,Drama
+158,Shadow of the Tomb Raider,2018,5631,Action,Adventure,Fantasy
+159,Uncharted: The Nathan Drake Collection,2015,5631,Action,Adventure,Fantasy
+160,Alien: Isolation,2014,5630,Horror,Sci-Fi,Thriller
+161,Gears of War 2,2008,5595,Action,Sci-Fi,War
+162,Hitman: Blood Money,2006,5577,Action,Crime,Mystery
+163,Resident Evil,1996,5543,Action,Horror,Mystery
+164,Half-Life 2: Episode One,2006,5493,Action,Adventure,Sci-Fi
+165,Super Mario Galaxy,2007,5485,Action,Adventure,Family
+166,Crysis,2007,5451,Action,Adventure,Mystery
+167,Mass Effect: Andromeda,2017,5428,Action,Adventure,Mystery
+168,Bully,2006,5397,Action,Comedy,Crime
+169,Super Mario Bros. 3,1988,5348,Action,Adventure,Family
+170,Spider-Man 2,2004,5320,Action,Adventure,Crime
+171,StarCraft,1998,5278,Action,Adventure,Sci-Fi
+172,Resident Evil Village,2021,5275,Action,Adventure,Drama
+173,Star Wars: Battlefront,2015,5270,Action,Fantasy,Sci-Fi
+174,Star Wars: Knights of the Old Republic II - The Sith Lords,2004,5250,Action,Adventure,Drama
+175,Overwatch,2016,5158,Action,Adventure,Fantasy
+176,Destiny,2014,5142,Action,Adventure,Fantasy
+177,Prince of Persia: The Sands of Time,2003,5115,Action,Adventure,Fantasy
+178,The Legend of Zelda: Twilight Princess,2006,5114,Action,Adventure,Fantasy
+179,Crysis 2,2011,5103,Action,Mystery,Sci-Fi
+180,Dark Souls,2011,5095,Action,Adventure,Fantasy
+181,Doom,1993,5085,Action,Fantasy,Horror
+182,Final Fantasy IX,2000,5069,Action,Adventure,Fantasy
+183,Dragon Age: Inquisition,2014,5059,Action,Adventure,Fantasy
+184,South Park: The Stick of Truth,2014,4985,Action,Adventure,Comedy
+185,Dragon Age II,2011,4982,Action,Adventure,Fantasy
+186,Super Mario World,1990,4982,Action,Adventure,Family
+187,Borderlands,2009,4939,Action,Adventure,Comedy
+188,Grand Theft Auto: Vice City Stories,2006,4910,Action,Crime,Drama
+189,Terminator 3: Rise of the Machines,2003,4895,Action,Adventure,Sci-Fi
+190,Resident Evil 6,2012,4889,Action,Adventure,Fantasy
+191,Outlast,2013,4868,Action,Horror,Mystery
+192,Wolfenstein II: The New Colossus,2017,4811,Action,Adventure,Drama
+193,Super Smash Bros. Brawl,2008,4802,Action,Adventure,Fantasy
+194,Gears of War 3,2011,4784,Action,Sci-Fi,War
+195,Grand Theft Auto IV: The Ballad of Gay Tony,2009,4769,Action,Crime,Drama
+196,Resident Evil 3,1999,4748,Action,Horror,Sci-Fi
+197,Dark Souls III,2016,4736,Action,Adventure,Fantasy
+198,inFamous: Second Son,2014,4729,Action,Adventure,Fantasy
+199,Assassin's Creed Valhalla,2020,4673,Action,Adventure,Fantasy
+200,Halo 3: ODST,2009,4659,Action,Adventure,Mystery
+201,The Witcher,2007,4529,Action,Adventure,Drama
+202,Game of Thrones: A Telltale Games Series,2014,4522,Adventure,Drama,Fantasy
+203,Grand Theft Auto IV: The Lost and Damned,2009,4471,Action,Crime,Drama
+204,Grand Theft Auto: Liberty City Stories,2005,4442,Action,Crime,Drama
+205,Lego Star Wars: The Complete Saga,2007,4391,Action,Adventure,Comedy
+206,Dying Light,2015,4384,Action,Adventure,Horror
+207,Assassin's Creed: Rogue,2014,4382,Action,Adventure,History
+208,Super Mario Odyssey,2017,4364,Animation,Action,Adventure
+209,Metro 2033,2010,4352,Action,Adventure,Horror
+210,Far Cry 2,2008,4352,Action,Adventure,Thriller
+211,Dead Island,2011,4326,Action,Adventure,Horror
+212,Battlefield: Bad Company 2,2010,4316,Action,Adventure,Comedy
+213,Resident Evil,2002,4312,Action,Horror,Mystery
+214,Team Fortress 2,2007,4290,Action,Comedy,Sci-Fi
+215,Saints Row IV,2013,4284,Action,Adventure,Comedy
+216,Mafia III,2016,4261,Action,Crime,Drama
+217,Star Wars: Battlefront,2004,4243,Action,Adventure,Sci-Fi
+218,Red Dead Redemption: Undead Nightmare,2010,4208,Action,Drama,Fantasy
+219,inFamous,2009,4205,Action,Adventure,Fantasy
+220,Doom 3,2004,4193,Action,Horror,Sci-Fi
+221,Metro: Last Light,2013,4187,Action,Adventure,Horror
+222,Shadow of the Colossus,2005,4169,Action,Adventure,Drama
+223,Injustice 2,2017,4161,Action,Adventure,Fantasy
+224,Call of Duty: Infinite Warfare,2016,4151,Action,Adventure,Sci-Fi
+225,Mortal Kombat X,2015,4126,Action,Adventure,Fantasy
+226,Watch Dogs 2,2016,4088,Action,Crime,Mystery
+227,Final Fantasy VII Remake,2020,4070,Action,Adventure,Drama
+228,Mario Kart Wii,2008,4064,Action,Family,Fantasy
+229,Rocket League,2015,4063,Action,Sci-Fi,Sport
+230,Diablo II,2000,4052,Action,Adventure,Fantasy
+231,Wii Sports,2006,4019,Comedy,Sport,
+232,Marvel's Guardians of the Galaxy,2021,4015,Action,Adventure,Comedy
+233,Tales from the Borderlands: A Telltale Games Series,2014,4013,Adventure,Comedy,Sci-Fi
+234,Control,2019,4010,Action,Adventure,Horror
+235,Firewatch,2016,4002,Drama,Mystery,Thriller
+236,Mirror's Edge,2008,3992,Action,Adventure,Sci-Fi
+237,Batman: The Telltale Series,2016,3984,Action,Crime,Sci-Fi
+238,Grand Theft Auto,1997,3979,Action,Crime,
+239,Mortal Kombat,2011,3977,Action,Adventure,Fantasy
+240,Hellblade: Senua's Sacrifice,2017,3945,Action,Adventure,Drama
+241,Titanfall 2,2016,3929,Action,Adventure,Sci-Fi
+242,Fallout 2: A Post-Nuclear Role-Playing Game,1998,3922,Action,Adventure,Sci-Fi
+243,Call of Duty 3,2006,3915,Action,Adventure,War
+244,Prince of Persia: Warrior Within,2004,3911,Action,Adventure,Fantasy
+245,Dead Space 3,2013,3893,Action,Adventure,Horror
+246,Inside,2016,3861,Adventure,Horror,Mystery
+247,Need for Speed: Underground 2,2004,3851,Action,Adventure,Family
+248,Grand Theft Auto 2,1999,3846,Action,Crime,
+249,Fallout: A Post-Nuclear Role-Playing Game,1997,3835,Action,Adventure,Sci-Fi
+250,Resident Evil 3,2020,3822,Action,Crime,Horror
+251,Silent Hill 3,2003,3822,Drama,Horror,Mystery
+252,The Godfather,2006,3810,Action,Crime,Drama
+253,Horizon Forbidden West,2022,3809,Action,Adventure,Sci-Fi
+254,Enter the Matrix,2003,3780,Action,Adventure,Sci-Fi
+255,Life Is Strange: Before the Storm,2017,3753,Drama,Mystery,Romance
+256,The Legend of Zelda: Majora's Mask,2000,3752,Action,Adventure,Family
+257,A Plague Tale: Innocence,2019,3706,Adventure,Drama,History
+258,Journey,2012,3700,Adventure,Fantasy,
+259,Need for Speed: Carbon,2006,3696,Action,Crime,Sport
+260,Mortal Kombat 11,2019,3673,Action,Adventure,Fantasy
+261,Fainaru fantajÃ® XII,2006,3665,Action,Adventure,Fantasy
+262,The Evil Within,2014,3663,Action,Adventure,Horror
+263,Undertale,2015,3657,Adventure,Comedy,Drama
+264,Far Cry,2004,3639,Action,Adventure,Sci-Fi
+265,Spec Ops: The Line,2012,3632,Action,Drama,Mystery
+266,The Walking Dead: A New Frontier,2016,3629,Drama,Horror,Thriller
+267,Star Wars: The Force Unleashed II,2010,3603,Action,Adventure,Fantasy
+268,Warcraft III: Reign of Chaos,2002,3593,Action,Adventure,Fantasy
+269,Grim Fandango,1998,3583,Adventure,Comedy,Crime
+270,Diablo III,2012,3563,Action,Adventure,Fantasy
+271,Lego Marvel Super Heroes,2013,3559,Action,Adventure,Fantasy
+272,Half-Life: Counter-Strike,2000,3550,Action,Crime,
+273,Counter-Strike: Global Offensive,2012,3544,Action,Crime,
+274,What Remains of Edith Finch,2017,3541,Adventure,Drama,Mystery
+275,Super Smash Bros. Ultimate,2018,3529,Action,Adventure,Fantasy
+276,Final Fantasy XIII,2009,3510,Action,Adventure,Drama
+277,Mortal Kombat,1992,3505,Action,Fantasy,
+278,Lego Batman: The Videogame,2008,3494,Action,Adventure,Fantasy
+279,The Elder Scrolls III: Morrowind,2002,3492,Action,Adventure,Fantasy
+280,Mad Max,2015,3490,Action,Adventure,Crime
+281,X-Men Origins: Wolverine,2009,3486,Action,Adventure,Fantasy
+282,The Legend of Zelda: A Link to the Past,1991,3484,Action,Adventure,Fantasy
+283,Prince of Persia: The Two Thrones,2005,3481,Action,Adventure,Fantasy
+284,Far Cry Primal,2016,3459,Action,Adventure,History
+285,Spider-Man 3,2007,3452,Action,Adventure,Crime
+286,Age of Empires II: The Age of Kings,1999,3430,Action,Adventure,History
+287,Warcraft III: The Frozen Throne,2003,3423,Action,Adventure,Fantasy
+288,The Legend of Zelda: The Wind Waker,2002,3422,Action,Adventure,Fantasy
+289,Sekiro: Shadows Die Twice,2019,3372,Action,Adventure,Fantasy
+290,StarCraft II: Wings of Liberty,2010,3362,Action,Adventure,Sci-Fi
+291,Saints Row 2,2008,3343,Action,Crime,Drama
+292,Hitman 2: Silent Assassin,2002,3307,Action,Crime,Mystery
+293,Sonic the Hedgehog,1991,3302,Action,Adventure,Family
+294,Dark Souls II,2014,3290,Action,Adventure,Fantasy
+295,Crash Bandicoot,1996,3282,Animation,Action,Adventure
+296,Destiny 2,2017,3279,Action,Adventure,Fantasy
+297,Final Fantasy XV,2016,3272,Action,Adventure,Drama
+298,Duke Nukem 3D,1996,3271,Action,Adventure,Comedy
+299,Tetris,1984,3269,,,
+300,Deus Ex,2000,3265,Action,Adventure,Drama
+301,Final Fantasy VI,1994,3256,Action,Adventure,Drama
+302,Halo 5: Guardians,2015,3233,Action,Adventure,Sci-Fi
+303,Splinter Cell,2002,3233,Action,Adventure,Thriller
+304,Super Smash Bros. Melee,2001,3233,Action,Fantasy,Sci-Fi
+305,Mario Kart 64,1996,3224,Animation,Action,Family
+306,Need for Speed: Underground,2003,3219,Action,Adventure,Crime
+307,From Russia with Love,2005,3214,Action,Adventure,Thriller
+308,The Sims 2,2004,3211,Adventure,Family,Romance
+309,The Chronicles of Riddick: Escape from Butcher Bay,2004,3210,Action,Crime,Sci-Fi
+310,Prototype,2009,3190,Action,Adventure,Horror
+311,The Secret of Monkey Island,1990,3170,Adventure,Comedy,Fantasy
+312,Final Fantasy X-2,2003,3163,Action,Adventure,Fantasy
+313,Doom Eternal,2020,3146,Action,Adventure,Fantasy
+314,Splinter Cell: Conviction,2010,3134,Action,Adventure,Thriller
+315,Super Mario Bros. 2,1988,3134,Action,Adventure,Family
+316,The Walking Dead: 400 Days,2013,3132,Drama,Horror,Thriller
+317,Indigo Prophecy,2005,3123,Action,Crime,Fantasy
+318,The Lord of the Rings: The Two Towers,2002,3121,Action,Adventure,Fantasy
+319,New Super Mario Bros. Wii,2009,3121,Action,Adventure,Family
+320,A Way Out,2018,3110,Action,Adventure,Crime
+321,Star Wars: The Old Republic,2011,3104,Action,Adventure,Fantasy
+322,Resident Evil: Code: Veronica,2000,3102,Action,Adventure,Horror
+323,God of War: Ascension,2013,3098,Action,Adventure,Fantasy
+324,Rainbow Six: Siege,2015,3098,Action,Adventure,Crime
+325,Just Cause 2,2010,3088,Action,Adventure,Crime
+326,Chrono Trigger,1995,3082,Action,Adventure,Fantasy
+327,Ghostbusters,2009,3079,Action,Adventure,Comedy
+328,inFamous 2,2011,3077,Action,Adventure,Fantasy
+329,NieR: Automata,2017,3066,Action,Adventure,Drama
+330,Deadpool,2013,3049,Action,Adventure,Comedy
+331,Among Us,2018,3044,Animation,Family,Horror
+332,Tomb Raider,1996,3037,Action,Adventure,Fantasy
+333,The Legend of Zelda,1986,3028,Action,Adventure,Fantasy
+334,Command & Conquer: Red Alert 2,2000,3014,Action,Sci-Fi,War
+335,Apex Legends,2019,3012,Action,Sci-Fi,
+336,Super Mario Sunshine,2002,3011,Action,Adventure,Crime
+337,Metal Gear Solid V: Ground Zeroes,2014,3007,Action,Adventure,Drama
+338,Doom II: Hell on Earth,1994,2999,Action,Fantasy,Horror
+339,Hitman: Contracts,2004,2993,Action,Crime,Mystery
+340,Devil May Cry 3: Dante's Awakening,2005,2986,Action,Adventure,Fantasy
+341,Cuphead: Don't Deal with the Devil,2017,2980,Animation,Action,Adventure
+342,Harry Potter and the Chamber of Secrets,2002,2968,Action,Adventure,Fantasy
+343,Devil May Cry 4,2008,2963,Action,Adventure,Fantasy
+344,F.E.A.R.,2005,2963,Action,Horror,Mystery
+345,Donkey Kong Country,1994,2959,Action,Adventure,Comedy
+346,Little Nightmares,2017,2957,Adventure,Horror,
+347,Fable,2004,2947,Action,Adventure,Fantasy
+348,The Quarry,2022,2944,Animation,Horror,
+349,Dead Rising,2006,2930,Action,Horror,Mystery
+350,Dishonored 2,2016,2926,Action,Adventure,Fantasy
+351,Crysis 3,2013,2926,Action,Adventure,Sci-Fi
+352,Tekken 3,1997,2922,Action,Fantasy,Sci-Fi
+353,DmC: Devil May Cry,2013,2913,Action,Adventure,Fantasy
+354,Hitman,2016,2902,Action,Crime,Mystery
+355,Diablo,1996,2900,Action,Adventure,Fantasy
+356,God of War: Chains of Olympus,2008,2892,Action,Adventure,Fantasy
+357,Splinter Cell: Chaos Theory,2005,2871,Action,Adventure,Thriller
+358,Silent Hill 4: The Room,2004,2869,Drama,Horror,Mystery
+359,Persona 5,2016,2856,Action,Adventure,Comedy
+360,League of Legends,2009,2822,Action,Adventure,Fantasy
+361,The Lord of the Rings: The Return of the King,2003,2811,Action,Adventure,Fantasy
+362,Middle-Earth: Shadow of War,2017,2809,Action,Adventure,Fantasy
+363,Mario Kart 8 Deluxe,2017,2809,Fantasy,Sport,
+364,Fable III,2010,2806,Action,Adventure,Fantasy
+365,Fable II,2008,2803,Action,Adventure,Fantasy
+366,Splinter Cell: Blacklist,2013,2793,Action,Adventure,Thriller
+367,The Stanley Parable,2013,2792,Adventure,Comedy,Fantasy
+368,Sonic the Hedgehog 2,1992,2785,Action,Adventure,Family
+369,Mafia: Definitive Edition,2020,2784,Action,Adventure,Crime
+370,Lego Star Wars: The Video Game,2005,2756,Action,Adventure,Comedy
+371,The Dark Pictures: Man of Medan,2019,2754,Adventure,Horror,Mystery
+372,Mortal Kombat II,1993,2752,Action,Fantasy,
+373,The Simpsons: Hit & Run,2003,2727,Animation,Action,Adventure
+374,Battlefield V,2018,2723,Action,Adventure,War
+375,The Curse of Monkey Island,1997,2723,Adventure,Comedy,Fantasy
+376,New Super Mario Bros.,2006,2714,Action,Adventure,Family
+377,Lego Star Wars II: The Original Trilogy,2006,2709,Action,Adventure,Family
+378,Devil May Cry,2001,2708,Action,Adventure,Fantasy
+379,FIFA 14,2013,2692,Sport,,
+380,Battlefield: Hardline,2015,2678,Action,Crime,
+381,Diablo II: Lord of Destruction,2001,2667,Action,Adventure,Fantasy
+382,Marvel's Avengers,2020,2650,Action,Adventure,Fantasy
+383,The Walking Dead: The Final Season,2018,2649,Drama,Horror,Sci-Fi
+384,Age of Empires III,2005,2633,Action,Adventure,War
+385,Call of Duty: Black Ops Cold War,2020,2628,Action,Drama,Horror
+386,Lego Batman 2: DC Super Heroes,2012,2620,Action,Sci-Fi,
+387,Super Mario Galaxy 2,2010,2606,Action,Adventure,Family
+388,Scarface: The World Is Yours,2006,2603,Action,Crime,Drama
+389,PokÃ©mon Red Version,1996,2600,Action,Adventure,Fantasy
+390,Metal Gear Solid 3: Subsistence,2005,2587,Action,Adventure,Drama
+391,Ratchet & Clank,2016,2586,Action,Adventure,Comedy
+392,Call of Duty: Black Ops 4,2018,2584,Action,Drama,Horror
+393,Medal of Honor,2010,2572,Action,War,
+394,Crash Bandicoot: Warped,1998,2568,Action,Adventure,Comedy
+395,Plants vs. Zombies,2009,2562,Action,Comedy,Family
+396,Return to Castle Wolfenstein,2001,2554,Action,Adventure,Fantasy
+397,It Takes Two,2021,2551,Adventure,Comedy,Drama
+398,The Sims 3,2009,2551,Family,,
+399,God of War: Ghost of Sparta,2010,2512,Action,Adventure,Fantasy
+400,Metal Gear Rising: Revengeance,2013,2497,Action,Adventure,Sci-Fi
+401,Metro Exodus,2019,2485,Action,Adventure,Horror
+402,Prince of Persia,2008,2471,Action,Adventure,Fantasy
+403,Spider-Man,2002,2463,Action,Adventure,Crime
+404,Just Cause 3,2015,2452,Action,Adventure,Crime
+405,Need for Speed: Undercover,2008,2452,Action,Adventure,Crime
+406,Crash Bandicoot 2: Cortex Strikes Back,1997,2447,Action,Adventure,Comedy
+407,Everything or Nothing,2003,2437,Action,Adventure,Sci-Fi
+408,Quake,1996,2437,Action,Adventure,Fantasy
+409,Shadow of the Colossus,2018,2434,Action,Adventure,Drama
+410,Ice Age 2: The Meltdown,2006,2421,Action,Adventure,Comedy
+411,Lara Croft Tomb Raider: Legend,2006,2420,Action,Adventure,Fantasy
+412,Monkey Island 2: LeChuck's Revenge,1991,2419,Adventure,Comedy,Fantasy
+413,Gun,2005,2399,Action,Adventure,Western
+414,Manhunt,2003,2396,Crime,Horror,Thriller
+415,The Order: 1886,2015,2395,Action,Fantasy,Horror
+416,Command & Conquer: Red Alert,1996,2389,Action,Sci-Fi,War
+417,Outlast 2,2017,2386,Action,Adventure,Horror
+418,Wolfenstein: The Old Blood,2015,2381,Action,Adventure,Fantasy
+419,Five Nights at Freddy's,2014,2377,Horror,Mystery,
+420,Call of Duty: Modern Warfare Remastered,2016,2376,Action,Thriller,
+421,Resident Evil 0,2002,2376,Action,Horror,Sci-Fi
+422,The Legend of Zelda: Skyward Sword,2011,2374,Action,Adventure,Fantasy
+423,Reservoir Dogs,2006,2371,Action,Crime,Drama
+424,Super Mario 3D World,2013,2357,Action,Adventure,Family
+425,Darksiders,2010,2356,Action,Adventure,Fantasy
+426,The Evil Within 2,2017,2338,Action,Adventure,Drama
+427,Age of Empires,1997,2335,Action,Adventure,History
+428,Dragon Age: Origins - Awakening,2010,2326,Action,Adventure,Fantasy
+429,Super Mario Kart,1992,2326,Action,Family,Fantasy
+430,Super Smash Bros.,1999,2324,Action,Fantasy,
+431,Star Wars: Jedi Knight - Jedi Academy,2003,2311,Action,Adventure,Fantasy
+432,Star Wars: Jedi Knight II - Jedi Outcast,2002,2310,Action,Adventure,Fantasy
+433,Mario Kart 8,2014,2294,Action,Family,Fantasy
+434,Hollow Knight,2017,2291,Action,Adventure,Fantasy
+435,Far Cry 6,2021,2289,Action,Adventure,Crime
+436,StarCraft: Brood War,1998,2289,Action,Adventure,Sci-Fi
+437,The Sims,2000,2286,Comedy,Drama,
+438,World of Warcraft: Wrath of the Lich King,2008,2279,Action,Adventure,Fantasy
+439,Halo: The Master Chief Collection,2014,2250,Action,Adventure,Sci-Fi
+440,Toy Story 2: Buzz Lightyear to the Rescue,1999,2245,Action,Family,
+441,Far Cry 3: Blood Dragon,2013,2245,Action,Adventure,Fantasy
+442,Splinter Cell: Double Agent,2006,2242,Action,Adventure,Thriller
+443,Medal of Honor: Allied Assault,2002,2232,Action,Adventure,War
+444,Harry Potter and the Order of the Phoenix,2007,2230,Action,Adventure,Fantasy
+445,Pac-Man,1980,2226,Family,Fantasy,
+446,Metal Gear Solid: Peace Walker,2010,2225,Action,Adventure,Drama
+447,Wolfenstein 3D,1992,2218,Action,Adventure,Sci-Fi
+448,Lego Indiana Jones: The Original Adventures,2008,2215,Action,Adventure,Comedy
+449,Life Is Strange 2,2018,2213,Adventure,Drama,Sci-Fi
+450,World of Warcraft: The Burning Crusade,2007,2193,Action,Adventure,Fantasy
+451,The Outer Worlds,2019,2190,Action,Adventure,Sci-Fi
+452,Stray,2022,2187,Adventure,Sci-Fi,
+453,Saints Row,2006,2173,Action,Crime,Drama
+454,Tomb Raider: Underworld,2008,2170,Action,Adventure,Fantasy
+455,James Bond 007: Blood Stone,2010,2166,Action,Adventure,Thriller
+456,Halo Wars,2009,2160,Action,Sci-Fi,War
+457,Iron Man,2008,2159,Action,Adventure,Sci-Fi
+458,Devil May Cry 5,2019,2158,Action,Adventure,Fantasy
+459,Kingdom Hearts III,2019,2148,Action,Adventure,Family
+460,Metal Gear Solid 2: Substance,2002,2145,Action,Adventure,Drama
+461,Marvel: Ultimate Alliance,2006,2144,Action,Adventure,Fantasy
+462,Hitman: Codename 47,2000,2143,Action,Crime,Mystery
+463,Super Metroid,1994,2140,Action,Adventure,Mystery
+464,Age of Mythology,2002,2126,Action,Adventure,Fantasy
+465,Spyro the Dragon,1998,2124,Animation,Action,Adventure
+466,Baldur's Gate II: Shadows of Amn,2000,2123,Action,Adventure,Fantasy
+467,BioShock Infinite: Burial at Sea,2013,2121,Action,Adventure,Mystery
+468,Mario Kart DS,2005,2102,Action,Adventure,Crime
+469,Halo Infinite,2021,2099,Action,Adventure,Sci-Fi
+470,Ori and the Blind Forest,2015,2099,Adventure,Fantasy,
+471,Need for Speed: Hot Pursuit,2010,2099,Action,Adventure,Crime
+472,Command & Conquer: Red Alert 3,2008,2098,Action,Sci-Fi,War
+473,Burnout Paradise,2008,2096,Action,Crime,Sport
+474,FIFA 13,2012,2087,Sport,,
+475,Mario Kart 7,2011,2086,Action,Fantasy,Sport
+476,Command & Conquer 3: Tiberium Wars,2007,2084,Action,Sci-Fi,War
+477,Bulletstorm,2011,2079,Action,Adventure,Sci-Fi
+478,Splinter Cell: Pandora Tomorrow,2004,2079,Action,Adventure,Thriller
+479,Deus Ex: Mankind Divided,2016,2071,Action,Adventure,Drama
+480,Lego Pirates of the Caribbean: The Video Game,2011,2071,Action,Adventure,Family
+481,Mortal Kombat 3,1995,2063,Action,Fantasy,
+482,Planescape: Torment,1999,2060,Adventure,Drama,Fantasy
+483,The Division,2016,2053,Action,Sci-Fi,Thriller
+484,Star Wars: Republic Commando,2005,2048,Action,Adventure,Sci-Fi
+485,Super Mario World 2: Yoshi's Island,1995,2048,Action,Adventure,Fantasy
+486,Quantum Break,2016,2038,Action,Mystery,Sci-Fi
+487,PlayerUnknown's Battlegrounds,2017,2038,Action,Thriller,War
+488,Tomb Raider II,1997,2037,Action,Adventure,Fantasy
+489,Amnesia: The Dark Descent,2010,2036,Horror,Mystery,
+490,Crash Bandicoot N. Sane Trilogy,2017,2032,Animation,Action,Adventure
+491,King Kong: The Official Game of the Movie,2005,2024,Action,Adventure,Fantasy
+492,Metroid Prime,2002,2022,Action,Adventure,Mystery
+493,Batman: The Enemy Within,2017,2020,Action,Crime,Drama
+494,BrÃ¼tal Legend,2009,2016,Action,Adventure,Comedy
+495,Hotline Miami,2012,2016,Action,Crime,Horror
+496,Dead Rising 2,2010,2016,Action,Horror,Thriller
+497,Need for Speed: Most Wanted,2012,2014,Action,Adventure,Crime
+498,Battlefield: Bad Company,2008,2011,Action,Adventure,Comedy
+499,South Park: The Fractured but Whole,2017,2005,Action,Adventure,Comedy
+500,The Lord of the Rings: The Battle for Middle-Earth,2004,2000,Action,Adventure,Fantasy
+501,Outlast: Whistleblower,2014,1999,Action,Horror,Mystery
+502,Mario Kart: Double Dash!!,2003,1995,Action,Family,Fantasy
+503,Crash Team Racing,1999,1995,Action,Adventure,Family
+504,Donkey Kong,1981,1982,Action,,
+505,Killzone 2,2009,1982,Action,Sci-Fi,War
+506,The Amazing Spider-Man,2012,1981,Action,Adventure,Crime
+507,Guitar Hero III: Legends of Rock,2007,1980,Music,,
+508,Borderlands 3,2019,1979,Action,Adventure,Comedy
+509,Super Mario 3D Land,2011,1974,Action,Adventure,Family
+510,Street Fighter: The Movie,1995,1971,Action,,
+511,Half-Life: Opposing Force,1999,1966,Action,Sci-Fi,Thriller
+512,Jak and Daxter: The Precursor Legacy,2001,1965,Action,Adventure,Comedy
+513,Brothers: A Tale of Two Sons,2013,1963,Adventure,Drama,Fantasy
+514,Borderlands: The Pre-Sequel!,2014,1961,Action,Adventure,Comedy
+515,Mass Effect: Legendary Edition,2021,1957,Action,Adventure,Drama
+516,Hitman 2,2018,1948,Action,Crime,Mystery
+517,Batman: Return to Arkham,2016,1944,Action,Adventure,Crime
+518,The Warriors,2005,1942,Action,Crime,Thriller
+519,Blade Runner,1997,1935,Mystery,Sci-Fi,Thriller
+520,Lego Harry Potter: Years 1-4,2010,1935,Action,Adventure,Fantasy
+521,Far Cry New Dawn,2019,1931,Action,Adventure,Crime
+522,Gears of War 4,2016,1930,Action,Sci-Fi,War
+523,Monty Python & the Quest for the Holy Grail,1996,1930,Comedy,Musical,
+524,Stranglehold,2007,1922,Action,Crime,Thriller
+525,P.T.,2014,1916,Horror,Mystery,
+526,Lego Star Wars: The Skywalker Saga,2022,1911,Action,Adventure,Comedy
+527,The Walking Dead: Michonne,2016,1905,Drama,Horror,Thriller
+528,Prey,2017,1903,Action,Adventure,Horror
+529,Titanfall,2014,1903,Action,Sci-Fi,War
+530,Day of the Tentacle,1993,1902,Adventure,Comedy,Sci-Fi
+531,Bayonetta,2009,1901,Action,Adventure,Fantasy
+532,Command & Conquer,1995,1900,Action,Sci-Fi,War
+533,Soma,2015,1899,Drama,Horror,Mystery
+534,Civilization V,2010,1898,History,,
+535,Quake III: Arena,1999,1897,Action,Sci-Fi,
+536,Quake II,1997,1896,Action,Sci-Fi,
+537,Tomb Raider: Anniversary,2007,1895,Action,Adventure,Fantasy
+538,Lego Star Wars III: The Clone Wars,2011,1894,Action,Adventure,Comedy
+539,Ghost Recon: Wildlands,2017,1890,Action,Adventure,Crime
+540,Horizon Zero Dawn: The Frozen Wilds,2017,1890,Action,Adventure,Sci-Fi
+541,Gone Home,2013,1885,Drama,Mystery,
+542,Coraline,2009,1882,Action,Adventure,Fantasy
+543,The Punisher,2004,1870,Action,Adventure,Crime
+544,Terminator 2: Judgment Day,1991,1865,Action,Adventure,Sci-Fi
+545,The Dark Pictures: Little Hope,2020,1860,Horror,Mystery,Thriller
+546,LittleBigPlanet,2008,1860,Adventure,Fantasy,
+547,The Lion King,1994,1853,Action,Adventure,Family
+548,Dota 2,2013,1852,Action,Adventure,Fantasy
+549,Tekken 5,2004,1852,Action,Fantasy,
+550,Medal of Honor,1999,1850,Action,Adventure,War
+551,Baldur's Gate,1998,1849,Action,Adventure,Fantasy
+552,Darksiders II,2012,1849,Action,Adventure,Fantasy
+553,Sonic 3,1994,1842,Action,Adventure,Family
+554,Fallout 76,2018,1839,Action,Adventure,Sci-Fi
+555,Ratchet & Clank,2002,1835,Action,Adventure,Comedy
+556,Vampire: The Masquerade - Bloodlines,2004,1834,Action,Drama,Fantasy
+557,Star Wars: Episode III - Revenge of the Sith,2005,1830,Action,Adventure,Sci-Fi
+558,Half-Life: Blue Shift,2001,1829,Action,Sci-Fi,Thriller
+559,The Darkness,2007,1824,Action,Crime,Drama
+560,Rayman Legends,2013,1811,Action,Adventure,Comedy
+561,FIFA 17,2016,1808,Sport,,
+562,Hades,2018,1807,Action,Adventure,Fantasy
+563,FIFA Soccer 12,2011,1806,Sport,,
+564,Banjo-Kazooie,1998,1803,Action,Adventure,Comedy
+565,Angry Birds,2009,1798,Action,Family,
+566,Super Smash Bros. for Wii U,2014,1789,Action,Adventure,Fantasy
+567,Warcraft II: Tides of Darkness,1995,1788,Fantasy,,
+568,Silent Hill: Homecoming,2008,1781,Horror,Mystery,Thriller
+569,Spider-Man,2000,1777,Action,Adventure,Fantasy
+570,The Lord of the Rings: The Battle for Middle-Earth II,2006,1776,Action,Adventure,Fantasy
+571,Game of Thrones,2012,1772,Action,Adventure,Fantasy
+572,Street Fighter II: The World Warrior,1991,1768,Action,Sci-Fi,
+573,F.E.A.R. 2: Project Origin,2009,1768,Action,Horror,Mystery
+574,Prince of Persia: The Forgotten Sands,2010,1757,Action,Adventure,Fantasy
+575,Donkey Kong Country 2: Diddy's Kong Quest,1995,1756,Action,Adventure,
+576,Prototype 2,2012,1750,Action,Adventure,Horror
+577,Resistance: Fall of Man,2006,1745,Action,Sci-Fi,Thriller
+578,Lego Batman 3: Beyond Gotham,2014,1743,Animation,Action,Adventure
+579,Fall Guys: Ultimate Knockout,2020,1741,Adventure,Comedy,Family
+580,Dante's Inferno,2010,1738,Action,Adventure,Fantasy
+581,Duck Hunt,1984,1738,Action,Sport,
+582,Psychonauts,2005,1734,Action,Adventure,Comedy
+583,Ryse: Son of Rome,2013,1733,Action,Adventure,History
+584,Duke Nukem Forever,2011,1723,Action,Adventure,Comedy
+585,Ico,2001,1714,Adventure,Drama,Fantasy
+586,Diablo III: Reaper of Souls,2014,1711,Action,Adventure,Fantasy
+587,Unreal Tournament,1999,1708,Action,Sci-Fi,
+588,Lylat Wars,1997,1702,Action,Adventure,Fantasy
+589,Resident Evil HD Remaster,2015,1700,Action,Crime,Drama
+590,FIFA 18,2017,1698,Sport,,
+591,Tekken 2,1995,1698,Action,Fantasy,
+592,Zelda II: The Adventure of Link,1987,1698,Action,Adventure,Fantasy
+593,Medal of Honor: Frontline,2002,1690,Action,Adventure,War
+594,Rome: Total War,2004,1684,Action,Adventure,War
+595,New Super Mario Bros. 2,2012,1683,Action,Adventure,Family
+596,Killzone 3,2011,1680,Action,Sci-Fi,War
+597,The Last of Us: Part I,2022,1672,Action,Adventure,Drama
+598,Kingdom Hearts: Birth by Sleep,2010,1670,Action,Adventure,Family
+599,Command & Conquer: Tiberian Sun,1999,1668,Action,Sci-Fi,War
+600,FIFA 19,2018,1667,Sport,,
+601,Terraria,2011,1666,Action,Adventure,Fantasy
+602,Rage,2011,1658,Action,Adventure,Sci-Fi
+603,Bloodborne: The Old Hunters,2015,1657,Action,Adventure,Fantasy
+604,Castlevania: Symphony of the Night,1997,1656,Action,Adventure,Fantasy
+605,The Chronicles of Riddick: Assault on Dark Athena,2009,1652,Action,Adventure,Sci-Fi
+606,The Legend of Zelda: A Link Between Worlds,2013,1652,Action,Adventure,Fantasy
+607,Resident Evil Revelations,2012,1648,Action,Horror,Mystery
+608,Need for Speed: The Run,2011,1645,Action,Adventure,Crime
+609,Metal Gear Solid: The Twin Snakes,2004,1643,Action,Adventure,Drama
+610,Mortal Kombat vs. DC Universe,2008,1639,Action,Adventure,Fantasy
+611,PokÃ©mon Gold Version,1999,1635,Action,Adventure,Fantasy
+612,Lego Star Wars: The Force Awakens,2016,1626,Action,Adventure,Comedy
+613,Indiana Jones and the Fate of Atlantis,1992,1621,Action,Adventure,Fantasy
+614,Doki Doki Literature Club!,2017,1619,Drama,Horror,Romance
+615,Full Throttle,1995,1616,Action,Adventure,Crime
+616,The Sims 4,2014,1607,Fantasy,,
+617,Halo: Combat Evolved Anniversary,2011,1607,Action,Adventure,Sci-Fi
+618,Yakuza 0,2015,1606,Action,Crime,Drama
+619,Enslaved: Odyssey to the West,2010,1606,Action,Adventure,Sci-Fi
+620,Payday 2,2013,1599,Action,Crime,
+621,Wolfenstein,2009,1596,Action,Adventure,Fantasy
+622,StarCraft II: Heart of the Swarm,2013,1579,Action,Adventure,Sci-Fi
+623,The Lord of the Rings: The Battle for Middle-earth II - The Rise of the Witch-king,2006,1576,Action,Adventure,Fantasy
+624,Devil May Cry 2,2003,1570,Action,Adventure,Fantasy
+625,Sonic & Knuckles,1994,1569,Action,Adventure,Family
+626,Jak II,2003,1567,Action,Adventure,Comedy
+627,Perfect Dark,2000,1565,Action,Adventure,Sci-Fi
+628,Battlefield 2,2005,1561,Action,War,
+629,Friday the 13th: The Game,2017,1553,Horror,Thriller,
+630,Mortal Kombat: Armageddon,2006,1552,Action,Adventure,Fantasy
+631,FIFA 20,2019,1547,Sport,,
+632,Crash Bandicoot: The Wrath of Cortex,2001,1544,Action,Adventure,Comedy
+633,Contra,1987,1544,Action,Adventure,Sci-Fi
+634,Spider-Man: Shattered Dimensions,2010,1543,Action,Adventure,Fantasy
+635,Guitar Hero II,2006,1543,Music,,
+636,Medal of Honor: Warfighter,2012,1542,Action,Adventure,War
+637,Forza Horizon 4,2018,1540,Action,Adventure,Crime
+638,PokÃ©mon: Yellow Version,1998,1538,Action,Adventure,Fantasy
+639,FIFA 16,2015,1534,Sport,,
+640,New Super Mario Bros. U,2012,1534,Action,Adventure,Family
+641,Jak 3,2004,1525,Action,Adventure,Comedy
+642,Final Fantasy,1987,1525,Adventure,Fantasy,
+643,The Matrix: Path of Neo,2005,1523,Action,Adventure,Fantasy
+644,Cars,2006,1522,Action,Sport,
+645,Harry Potter and the Prisoner of Azkaban,2004,1522,Action,Adventure,Fantasy
+646,Tomb Raider III: Adventures of Lara Croft,1998,1522,Action,Adventure,Fantasy
+647,Sonic Adventure 2,2001,1519,Action,Adventure,Fantasy
+648,Rainbow Six: Vegas 2,2008,1519,Action,Crime,Thriller
+649,Gears of War: Judgment,2013,1515,Action,Sci-Fi,War
+650,Tomorrow Never Dies,1999,1515,Action,Adventure,
+651,Garry's Mod,2004,1514,Action,Adventure,Sci-Fi
+652,XCOM: Enemy Unknown,2012,1513,Action,Sci-Fi,Thriller
+653,Life Is Strange: True Colors,2021,1506,Drama,Mystery,Sci-Fi
+654,S.T.A.L.K.E.R.: Shadow of Chernobyl,2007,1504,Action,Adventure,Horror
+655,Dino Crisis,1999,1503,Action,Adventure,Horror
+656,Ultimate Mortal Kombat 3,1995,1503,Action,Fantasy,
+657,Crysis Warhead,2008,1502,Action,Adventure,Sci-Fi
+658,Castlevania: Lords of Shadow,2010,1501,Action,Adventure,Fantasy
+659,Wii Sports Resort,2009,1501,Action,Family,Sport
+660,Civilization IV,2005,1500,,,
+661,Demon's Souls,2009,1496,Action,Adventure,Fantasy
+662,Valiant Hearts: The Great War,2014,1494,Adventure,Drama,History
+663,Persona 5 Royal,2019,1491,Action,Adventure,Comedy
+664,Alice,2000,1491,Action,Adventure,Fantasy
+665,Final Fantasy IV,1991,1491,Action,Adventure,Fantasy
+666,Command & Conquer: Yuri's Revenge,2001,1486,Action,Sci-Fi,War
+667,Tony Hawk's Pro Skater 2,2000,1484,Sport,,
+668,Lego Harry Potter: Years 5-7,2011,1481,Action,Adventure,Fantasy
+669,Fortnite: Chapter 2,2019,1479,Action,Adventure,Fantasy
+670,Tekken 6,2007,1477,Action,Adventure,Drama
+671,Ghost Recon: Future Soldier,2012,1474,Action,Adventure,Sci-Fi
+672,Mortal Kombat 4,1997,1472,Action,Fantasy,Sci-Fi
+673,Nightfire,2002,1468,Action,Adventure,
+674,Gears 5,2019,1465,Action,Adventure,Sci-Fi
+675,Five Nights at Freddy's 2,2014,1465,Horror,Mystery,
+676,Super Mario RPG: Legend of the Seven Stars,1996,1464,Action,Adventure,Fantasy
+677,Minecraft: Story Mode - A Telltale Games Series,2015,1463,Adventure,Comedy,Fantasy
+678,Resident Evil Revelations 2,2015,1461,Action,Horror,Mystery
+679,The Last Guardian,2016,1460,Adventure,Drama,Fantasy
+680,Persona 4 Golden,2012,1456,Action,Adventure,Comedy
+681,Beyond Good & Evil,2003,1453,Action,Adventure,Mystery
+682,True Crime: Streets of LA,2003,1449,Action,Crime,Thriller
+683,"Crouching Tiger, Hidden Dragon",2003,1449,Action,Adventure,Drama
+684,Kane & Lynch: Dead Men,2007,1449,Action,Crime,Drama
+685,Tekken,1994,1449,Action,Fantasy,Sci-Fi
+686,The Darkness II,2012,1443,Action,Crime,Drama
+687,The Elder Scrolls Online,2014,1442,Action,Adventure,Fantasy
+688,Night at the Museum: Battle of the Smithsonian,2009,1438,Action,Adventure,Fantasy
+689,"Papers, Please",2013,1438,Drama,Thriller,
+690,Animal Crossing: New Horizons,2020,1437,Adventure,Fantasy,
+691,Medal of Honor: Airborne,2007,1431,Action,Adventure,War
+692,Aliens vs. Predator 3,2010,1428,Action,Horror,Sci-Fi
+693,Condemned: Criminal Origins,2005,1425,Action,Crime,Horror
+694,PokÃ©mon FireRed Version,2004,1425,Action,Adventure,Fantasy
+695,Need for Speed: Rivals,2013,1424,Action,Adventure,Crime
+696,Harry Potter and the Sorcerer's Stone,2001,1423,Action,Adventure,Fantasy
+697,No Man's Sky,2016,1423,Adventure,Sci-Fi,
+698,Ratchet & Clank 3,2004,1421,Action,Adventure,Comedy
+699,Luigi's Mansion,2001,1419,Adventure,Family,Fantasy
+700,The Legend of Zelda: Link's Awakening,1993,1418,Action,Adventure,Fantasy
+701,Need for Speed: Hot Pursuit 2,2002,1418,Action,Adventure,Crime
+702,Metroid,1986,1416,Action,Adventure,Mystery
+703,Lego Jurassic World,2015,1412,Action,Adventure,Sci-Fi
+704,Super Mario 64 DS,2004,1407,Action,Adventure,Fantasy
+705,Goat Simulator,2014,1406,Action,Adventure,Comedy
+706,Sonic Adventure,1998,1406,Action,Adventure,Fantasy
+707,Super Mario Bros.: The Lost Levels,1986,1402,Action,Adventure,Family
+708,Mario Bros.,1983,1401,Action,Fantasy,
+709,Escape from Monkey Island,2000,1399,Adventure,Comedy,Fantasy
+710,Spyro: Year of the Dragon,2000,1398,Action,Adventure,Fantasy
+711,The World Is Not Enough,2000,1398,Action,Thriller,Adventure
+712,Killzone: Shadow Fall,2013,1395,Action,Adventure,Sci-Fi
+713,Battlefield 1942,2002,1393,Action,Adventure,War
+714,Ultimate Spider-Man,2005,1392,Action,Adventure,Crime
+715,Roblox,2004,1389,Action,Adventure,Family
+716,Spyro 2: Ripto's Rage!,1999,1389,Action,Adventure,Fantasy
+717,Conker's Bad Fur Day,2001,1388,Action,Adventure,Comedy
+718,Lego Marvel's Avengers,2016,1386,Action,Adventure,Fantasy
+719,Dead by Daylight,2016,1382,Adventure,Horror,Thriller
+720,Postal 2,2003,1380,Action,Comedy,Crime
+721,Call of Duty: Vanguard,2021,1379,Action,Drama,Horror
+722,The Legend of Zelda: The Wind Waker HD,2013,1379,Action,Adventure,Fantasy
+723,Worms,1995,1378,Action,Comedy,Sport
+724,Super Meat Boy,2010,1377,Action,Adventure,Comedy
+725,PokÃ©mon Emerald Version,2004,1374,Action,Adventure,Fantasy
+726,Spider-Man: Web of Shadows,2008,1371,Action,Adventure,Crime
+727,Quake 4,2005,1371,Action,Sci-Fi,Thriller
+728,Harry Potter and the Goblet of Fire,2005,1370,Action,Adventure,Fantasy
+729,Little Nightmares II,2021,1369,Adventure,Horror,
+730,Sonic Mania,2017,1369,Animation,Action,Adventure
+731,Hearthstone: Heroes of Warcraft,2014,1358,Adventure,Comedy,Fantasy
+732,Mortal Kombat Trilogy,1996,1358,Action,Fantasy,
+733,Star Wars: Jedi Knight - Dark Forces II,1997,1357,Action,Adventure,Fantasy
+734,Ratchet & Clank: Rift Apart,2021,1355,Action,Adventure,Comedy
+735,Subnautica,2018,1352,Adventure,Horror,Mystery
+736,Assassin's Creed III: Liberation,2012,1352,Action,Adventure,History
+737,Street Fighter IV,2008,1351,Action,Fantasy,Sci-Fi
+738,GoldenEye,2010,1350,Action,Adventure,Thriller
+739,Lego the Lord of the Rings: The Video Game,2012,1349,Action,Adventure,Fantasy
+740,Worms Armageddon,1999,1348,Action,Comedy,War
+741,Alice: Madness Returns,2011,1343,Action,Adventure,Fantasy
+742,Teenage Mutant Ninja Turtles IV: Turtles in Time,1991,1342,Action,Adventure,Sci-Fi
+743,Red Dead Revolver,2004,1340,Action,Adventure,Drama
+744,Tekken 4,2001,1339,Action,Comedy,Drama
+745,The Incredibles,2004,1337,Animation,Action,Adventure
+746,Donkey Kong 64,1999,1329,Action,Adventure,Comedy
+747,Ratchet & Clank 2: Locked and Loaded,2003,1329,Action,Adventure,Comedy
+748,Crisis Core: Final Fantasy VII,2007,1327,Action,Adventure,Drama
+749,FIFA Soccer 11,2010,1327,Sport,,
+750,The Amazing Spider-Man 2,2014,1323,Action,Adventure,Crime
+751,Rainbow Six: Vegas,2006,1320,Action,Crime,Thriller
+752,Command & Conquer: Generals,2003,1318,Action,War,
+753,Teenage Mutant Ninja Turtles II: The Arcade Game,1989,1317,Action,Adventure,Sci-Fi
+754,Watch Dogs: Legion,2020,1316,Action,Crime,Drama
+755,Killzone,2004,1315,Action,Sci-Fi,War
+756,Okami,2006,1313,Action,Adventure,Fantasy
+757,Genshin Impact,2020,1311,Action,Adventure,Fantasy
+758,Resistance 2,2008,1310,Action,Sci-Fi,Thriller
+759,Sonic Unleashed,2008,1308,Action,Adventure,Family
+760,World of Warcraft: Cataclysm,2010,1307,Action,Adventure,Fantasy
+761,Metal Gear,1987,1306,Action,Adventure,Sci-Fi
+762,Castlevania,1986,1305,Action,Adventure,Fantasy
+763,Kingdom Hearts II: Final Mix+,2007,1304,Action,Adventure,Family
+764,Transformers: Revenge of the Fallen,2009,1302,Action,Adventure,Sci-Fi
+765,Call of Duty: Modern Warfare II,2022,1298,Action,,
+766,FIFA 21,2020,1294,Sport,,
+767,Thief,2014,1291,Action,Adventure,Crime
+768,The Godfather II,2009,1289,Action,Crime,Drama
+769,inFamous: First Light,2014,1289,Action,Adventure,Fantasy
+770,The Dark Pictures: House of Ashes,2021,1288,Action,Adventure,Horror
+771,Hitman 3,2021,1288,Action,Crime,Mystery
+772,ARK: Survival Evolved,2015,1286,Action,Adventure,Fantasy
+773,Unreal Tournament 2004,2004,1281,Action,Sci-Fi,
+774,AbzÃ»,2016,1279,Adventure,Fantasy,
+775,Paper Mario,2000,1278,Adventure,Fantasy,
+776,Sly Raccoon,2002,1276,Animation,Action,Adventure
+777,Warcraft: Orcs & Humans,1994,1275,Action,Adventure,Fantasy
+778,Sonic Generations,2011,1273,Action,Adventure,Family
+779,Dead Island Riptide,2013,1271,Action,Adventure,Horror
+780,Superhot,2016,1267,Action,Sci-Fi,
+781,Double Dragon,1987,1266,Action,Family,Fantasy
+782,The Simpsons Game,2007,1265,Action,Adventure,Comedy
+783,The Awesome Adventures of Captain Spirit,2018,1262,Drama,,
+784,Aliens: Colonial Marines,2013,1261,Action,Horror,Sci-Fi
+785,Call of Duty: Warzone,2020,1258,Action,Adventure,War
+786,Soulcalibur II,2003,1256,Action,Adventure,Fantasy
+787,Kingdom Come: Deliverance,2018,1255,Adventure,Drama,History
+788,Need for Speed: ProStreet,2007,1255,Action,Sport,
+789,World of Warcraft: Mists of Pandaria,2012,1255,Action,Adventure,Fantasy
+790,Baldur's Gate II: Throne of Bhaal,2001,1253,Action,Adventure,Fantasy
+791,Murdered: Soul Suspect,2014,1246,Crime,Fantasy,Horror
+792,Driver,1999,1246,Action,Crime,Thriller
+793,Five Nights at Freddy's 3,2015,1242,Horror,Mystery,
+794,Heroes of Might and Magic III: The Restoration of Erathia,1999,1242,Action,Adventure,Fantasy
+795,Shenmue,1999,1241,Action,Adventure,Crime
+796,Mortal Kombat: Mystification,2004,1240,Action,Adventure,Fantasy
+797,Sonic Mania Plus,2018,1237,Action,Adventure,Family
+798,Sonic Boom: Rise of Lyric,2014,1237,Action,Adventure,Family
+799,Tony Hawk's Pro Skater 3,2001,1232,Sport,,
+800,Star Wars: The Force Unleashed - Ultimate Sith Edition,2009,1230,Action,Adventure,Fantasy
+801,Journey to the Center of the Earth,2008,1229,Action,Adventure,Fantasy
+802,PokÃ©mon X,2013,1229,Action,Adventure,Family
+803,Sonic the Hedgehog,2006,1228,Action,Adventure,Family
+804,Ori and the Will of the Wisps,2020,1225,Adventure,Fantasy,
+805,Medal of Honor: Pacific Assault,2004,1225,Action,Adventure,War
+806,Dying Light 2: Stay Human,2022,1224,Action,Adventure,Horror
+807,Super Mario Land,1989,1220,Action,Adventure,Family
+808,The Incredible Hulk,2008,1217,Action,Adventure,Sci-Fi
+809,Ratchet & Clank: Tools of Destruction,2007,1217,Action,Adventure,Comedy
+810,Tomb Raider: The Last Revelation,1999,1213,Action,Adventure,Fantasy
+811,PokÃ©mon Go,2016,1213,Action,Adventure,Family
+812,The Lord of the Rings: The Third Age,2004,1210,Action,Adventure,Fantasy
+813,Medieval II: Total War,2006,1205,Action,History,War
+814,The Meaning of Life,1997,1205,Comedy,Musical,
+815,F.3.A.R.,2011,1200,Action,Adventure,Horror
+816,Dreamfall: The Longest Journey,2006,1198,Adventure,Drama,Fantasy
+817,Star Wars: Episode I - The Phantom Menace,1999,1197,Action,Adventure,Fantasy
+818,Stardew Valley,2016,1193,Adventure,Family,Fantasy
+819,Mortal Kombat: Deadly Alliance,2002,1192,Action,Adventure,Fantasy
+820,Mega Man II,1988,1192,Action,Adventure,Sci-Fi
+821,Prince of Persia,1989,1191,Action,Adventure,Fantasy
+822,Need for Speed III: Hot Pursuit,1998,1185,Action,Adventure,Crime
+823,Tekken Tag Tournament,1999,1185,Action,Fantasy,Sci-Fi
+824,Lego Indiana Jones 2: The Adventure Continues,2009,1180,Action,Adventure,Family
+825,Sly 2: Band of Thieves,2004,1173,Action,Adventure,Comedy
+826,Marvel: Ultimate Alliance 2,2009,1172,Action,Adventure,Fantasy
+827,Homefront,2011,1171,Action,Thriller,War
+828,FIFA 15,2014,1171,Sport,,
+829,Fantastic Four,2005,1168,Action,Adventure,Fantasy
+830,PokÃ©mon: Blue Version,1996,1168,Action,Adventure,Fantasy
+831,Paper Mario: The Thousand-Year Door,2004,1167,Adventure,Fantasy,
+832,Metal Gear Solid,2000,1166,Action,Adventure,Sci-Fi
+833,For Honor,2017,1163,Action,Adventure,Fantasy
+834,Celeste,2018,1163,Action,Adventure,Comedy
+835,Astro's Playroom,2020,1162,Animation,Adventure,Comedy
+836,Persona 4,2008,1160,Action,Adventure,Comedy
+837,Oxenfree,2016,1159,Adventure,Drama,Mystery
+838,The Legend of Zelda: Ocarina of Time 3D,2011,1159,Action,Adventure,Family
+839,The Longest Journey,1999,1156,Adventure,Drama,Fantasy
+840,System Shock 2,1999,1154,Action,Adventure,Horror
+841,PokÃ©mon Ruby Version,2002,1152,Action,Adventure,Family
+842,Donkey Kong Country 3: Dixie Kong's Double Trouble!,1996,1151,Action,Adventure,
+843,The Saboteur,2009,1148,Action,Adventure,Thriller
+844,Mirror's Edge: Catalyst,2016,1143,Action,Adventure,Sci-Fi
+845,Tekken 7,2015,1141,Action,Adventure,Drama
+846,FIFA 10,2009,1141,Sport,,
+847,Spyro Reignited Trilogy,2018,1140,Animation,Action,Adventure
+848,Star Wars: Episode I - Racer,1999,1138,Action,Adventure,Sci-Fi
+849,Metal Gear 2: Solid Snake,1990,1138,Action,Adventure,Sci-Fi
+850,Silent Hill: Downpour,2011,1137,Crime,Horror,Mystery
+851,Ratchet & Clank: A Crack in Time,2009,1136,Action,Adventure,Comedy
+852,Medal of Honor: Rising Sun,2003,1136,Action,Adventure,War
+853,FIFA 22,2021,1134,Sport,,
+854,"Grand Theft Auto: London, 1969",1999,1133,Action,Crime,
+855,Broken Sword: The Shadow of the Templars,1996,1133,Adventure,Comedy,Drama
+856,Dead Rising 3,2013,1131,Action,Horror,Thriller
+857,Need for Speed,2015,1130,Action,Adventure,Sport
+858,Silent Hill: Origins,2007,1123,Drama,Horror,Mystery
+859,Mega Man,1987,1123,Action,Adventure,Sci-Fi
+860,Bastion,2011,1119,Action,Adventure,Fantasy
+861,Crazy Taxi,1999,1118,Action,Comedy,
+862,Clash of Clans,2012,1115,Action,Fantasy,
+863,Happy Wheels,2010,1112,Action,Comedy,
+864,Nioh,2017,1110,Action,Adventure,Fantasy
+865,Rayman Origins,2011,1109,Action,Adventure,Comedy
+866,Superman Returns,2006,1108,Action,Adventure,Sci-Fi
+867,Super Mario All-Stars - 25th Anniversary Edition,1993,1108,Action,Adventure,Family
+868,Vampyr,2018,1106,Action,Adventure,Crime
+869,Neverwinter Nights,2002,1105,Action,Adventure,Fantasy
+870,Animal Crossing: New Leaf,2012,1100,Family,,
+871,The Walking Dead: Survival Instinct,2013,1096,Action,Horror,
+872,Sonic Heroes,2003,1096,Action,Adventure,Fantasy
+873,Lara Croft Tomb Raider: The Angel of Darkness,2003,1095,Action,Adventure,Fantasy
+874,Jade Empire,2005,1095,Action,Adventure,Fantasy
+875,CR: Enter the Matrix,2009,1095,Action,Adventure,Family
+876,Tony Hawk's Pro Skater,1999,1094,Action,Sport,
+877,Pirates of the Caribbean,2003,1093,Adventure,Fantasy,
+878,Kingdom Hearts: 358/2 Days,2009,1092,Action,Adventure,Family
+879,PokÃ©mon Y,2013,1092,Action,Adventure,Family
+880,Need for Speed: Payback,2017,1085,Action,Adventure,Crime
+881,Alan Wake's American Nightmare,2012,1085,Action,Horror,Mystery
+882,EarthBound,1994,1084,Adventure,Comedy,Fantasy
+883,Sonic Forces,2017,1083,Action,Adventure,Family
+884,Aliens vs. Predator 2,2001,1083,Action,Horror,Sci-Fi
+885,Saints Row: Gat Out of Hell,2015,1079,Action,Comedy,Fantasy
+886,PokÃ©mon Silver Version,1999,1079,Action,Adventure,Fantasy
+887,Pirates of the Caribbean: At World's End,2007,1077,Action,Adventure,Fantasy
+888,LittleBigPlanet 2,2011,1077,Adventure,Fantasy,
+889,Doom 3: Resurrection of Evil,2005,1077,Action,Horror,Sci-Fi
+890,Heavenly Sword,2007,1075,Action,Adventure,Fantasy
+891,Streets of Rage,1991,1075,Action,Adventure,Crime
+892,Erica,2019,1068,Adventure,Drama,Thriller
+893,Civilization VI,2016,1067,History,,
+894,Sunset Overdrive,2014,1065,Action,Adventure,Comedy
+895,Prey,2006,1062,Action,Horror,Sci-Fi
+896,Star Wars: Dark Forces,1995,1060,Action,Adventure,Sci-Fi
+897,Counter-Strike: Condition Zero,2004,1058,Action,Crime,
+898,Crash Bash,2000,1058,Action,Family,Fantasy
+899,Kirby Super Star,1996,1056,Action,Adventure,Family
+900,Lego Dimensions,2015,1054,Action,Adventure,Comedy
+901,World of Warcraft: Warlords of Draenor,2014,1054,Action,Adventure,Fantasy
+902,Thor: God of Thunder,2011,1053,Action,Adventure,Fantasy
+903,Syberia,2002,1053,Adventure,Drama,Fantasy
+904,Golden Axe,1989,1050,Action,Adventure,Fantasy
+905,Super Smash Bros. for Nintendo 3DS,2014,1050,Action,Fantasy,Sci-Fi
+906,Manhunt 2,2007,1048,Action,Horror,Mystery
+907,The Lego Movie Videogame,2014,1047,Action,Adventure,Comedy
+908,Clash Royale,2016,1038,Action,Fantasy,
+909,Sam and Max Hit the Road,1993,1034,Adventure,Comedy,Mystery
+910,Demon's Souls,2020,1033,Action,Adventure,Fantasy
+911,Dino Crisis 2,2000,1033,Action,Adventure,Horror
+912,Lego DC Super-Villains,2018,1032,Action,Adventure,Comedy
+913,Duke Nukem,1991,1032,Action,Adventure,Sci-Fi
+914,Pokemon: Crystal Version,2000,1031,Action,Adventure,Fantasy
+915,Sly 3: Honour Among Thieves,2005,1028,Action,Adventure,Comedy
+916,A Series of Unfortunate Events,2004,1026,Action,Adventure,Comedy
+917,Transformers: The Game,2007,1026,Action,Adventure,Sci-Fi
+918,The Divergent Series: Insurgent - Shatter Reality,2015,1025,Short,Action,
+919,Warcraft II: Beyond the Dark Portal,1996,1024,Action,Adventure,Fantasy
+920,Grim Fandango: Remastered,2015,1022,Adventure,Comedy,Crime
+921,Streets of Rage 2,1992,1022,Action,Adventure,Crime
+922,BioShock 2: Minerva's Den,2010,1021,Action,Adventure,Horror
+923,Final Fantasy XIII-2,2011,1020,Action,Adventure,Drama
+924,Call of Duty: United Offensive,2004,1017,Action,Adventure,War
+925,Kirby's Adventure,1993,1017,Action,Adventure,Family
+926,Independence Day,1997,1016,Action,Sci-Fi,
+927,The Legend of Zelda: Phantom Hourglass,2007,1016,Action,Adventure,Fantasy
+928,Guitar Hero: World Tour,2008,1015,Family,Music,
+929,Donkey Kong Country Returns,2010,1014,Action,Adventure,Fantasy
+930,Minesweeper,1989,1014,Action,Family,
+931,Red Faction: Guerrilla,2009,1013,Action,Sci-Fi,
+932,Avatar: The Last Airbender - The Legend of Aang,2006,1012,Action,Adventure,Fantasy
+933,Call of Juarez: Bound in Blood,2009,1011,Action,Adventure,Western
+934,X-Men Legends II: Rise of Apocalypse,2005,1010,Action,Sci-Fi,
+935,Lego the Hobbit: The Video Game,2014,1009,Action,Adventure,Comedy
+936,Five Nights at Freddy's 4: The Final Chapter,2015,1008,Horror,Mystery,
+937,Harry Potter and the Half-Blood Prince,2009,1008,Action,Adventure,Drama
+938,Sonic the Hedgehog CD,1993,1008,Animation,Action,Adventure
+939,Grand Theft Auto: Chinatown Wars,2009,1007,Action,Crime,Drama
+940,Remember Me,2013,1007,Action,Adventure,Sci-Fi
+941,Lego Marvel Super Heroes 2,2017,1005,Action,Adventure,Family
+942,Guitar Hero,2005,1005,Family,Music,
+943,Metroid Prime 3: Corruption,2007,1004,Action,Adventure,Mystery
+944,Tony Hawk's Underground,2003,1003,Sport,,
+945,Call of Juarez: Gunslinger,2013,1000,Action,Adventure,Western
+946,Soulcalibur IV,2008,999,Action,Fantasy,
+947,Iron Man 2,2010,998,Action,Adventure,Crime
+948,PokÃ©mon: Stadium,1999,994,Action,Fantasy,Sci-Fi
+949,Burnout 3: Takedown,2004,993,Action,Crime,Sport
+950,Metroid Prime 2: Echoes,2004,992,Action,Adventure,Mystery
+951,FIFA 09,2008,992,Sport,,
+952,New Super Luigi U,2013,992,Action,Adventure,Fantasy
+953,Forza Horizon 5,2021,991,Action,Adventure,Crime
+954,Silent Hill: Shattered Memories,2009,991,Drama,Horror,Mystery
+955,Hotline Miami 2: Wrong Number,2015,991,Action,Crime,Horror
+956,Twelve Minutes,2021,989,Adventure,Mystery,Thriller
+957,The Division 2,2019,989,Action,Sci-Fi,Thriller
+958,Assassin's Creed: Freedom Cry,2013,989,Action,Adventure,History
+959,Need for Speed: Shift,2009,989,Action,Sport,
+960,Dr. Mario,1990,987,Family,,
+961,Grand Theft Auto: Episodes from Liberty City,2009,985,Action,Crime,Drama
+962,The Legend of Zelda: The Minish Cap,2004,982,Adventure,Fantasy,
+963,Star Wars: Shadows of the Empire,1996,979,Action,Adventure,Sci-Fi
+964,True Crime: New York City,2005,977,Action,Crime,Mystery
+965,Oddworld: Abe's Oddysee,1997,975,Adventure,Fantasy,Sci-Fi
+966,World of Warcraft: Legion,2016,972,Action,Adventure,Fantasy
+967,Just Cause,2006,972,Action,Adventure,Crime
+968,The Lord of the Rings: War in the North,2011,970,Action,Adventure,Fantasy
+969,Gran Turismo 4,2004,969,Sport,,
+970,Jurassic World Evolution,2018,968,Adventure,Family,Sci-Fi
+971,XIII,2003,967,Action,Adventure,Mystery
+972,StarCraft II: Legacy of the Void,2015,966,Action,Adventure,Sci-Fi
+973,PokÃ©mon LeafGreen Version,2004,966,Action,Adventure,Fantasy
+974,Alien vs. Predator,1994,965,Action,Adventure,Sci-Fi
+975,Star Trek,2013,963,Action,Adventure,Sci-Fi
+976,Legacy of Kain: Soul Reaver,1999,959,Action,Adventure,Fantasy
+977,Kingdom Hearts 3D: Dream Drop Distance,2012,958,Action,Adventure,Family
+978,Need for Speed II,1997,957,Action,Adventure,Crime
+979,Just Cause 4,2018,955,Action,Adventure,Crime
+980,Aladdin,1993,953,Animation,Action,Adventure
+981,Civilization III,2001,953,,,
+982,Shadow the Hedgehog,2005,952,Action,Adventure,Crime
+983,Fire Emblem: Awakening,2012,952,Action,Adventure,Fantasy
+984,Age of Empires: The Age of Kings,2006,950,History,War,
+985,Lollipop Chainsaw,2012,949,Action,Adventure,Comedy
+986,Crash Twinsanity,2004,949,Animation,Action,Adventure
+987,Chrono Cross,1999,949,Action,Adventure,Fantasy
+988,Yakuza Kiwami,2016,948,Action,Crime,Drama
+989,Unreal Tournament III,2007,947,Action,Sci-Fi,
+990,Def Jam: Fight for NY,2004,945,Action,Crime,Thriller
+991,Gran Turismo,1997,945,Sport,,
+992,PokÃ©mon Platinum Version,2008,944,Action,Adventure,Family
+993,The Dig,1995,943,Adventure,Drama,Sci-Fi
+994,Civilization II,1996,943,History,,
+995,Animal Crossing,2001,942,Adventure,Family,Fantasy
+996,FIFA 07,2006,942,Action,Sport,
+997,Everybody's Gone to the Rapture,2015,938,Fantasy,Mystery,Sci-Fi
+998,Rock Band,2007,938,Family,Music,
+999,Braid,2008,938,Action,Adventure,Fantasy
+1000,Undying,2001,937,Action,Horror,Mystery

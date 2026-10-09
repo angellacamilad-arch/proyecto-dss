@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DSS - Dashboard de Inteligencia de Negocios de Videojuegos</title>
+    <!-- Tailwind CSS para el diseño ordenado y adaptable a móviles -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Chart.js para las visualizaciones -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body class="bg-slate-100 text-slate-800 font-sans min-h-screen">
+
+    <!-- Encabezado / Header -->
+    <header class="bg-indigo-900 text-white p-6 shadow-md">
+        <div class="max-w-7xl mx-auto flex flex-col md:flex-row justify-between items-center gap-4">
+            <div>
+                <h1 class="text-2xl font-bold">Sistema de Soporte a Decisiones (DSS)</h1>
+                <p class="text-indigo-200 text-sm">Análisis de Desempeño y Tendencias del Catálogo de Videojuegos</p>
+            </div>
+            <div class="text-right text-xs text-indigo-300">
+                <p>Dirección Regional Minorista</p>
+                <p>Fuente: Kaggle (Top 1000 Games of All Time)</p>
+            </div>
+        </div>
+    </header>
+
+    <main class="max-w-7xl mx-auto p-4 md:p-6 space-y-6">
+
+        <!-- FILTROS INTERACTIVOS (Fase 2, Req. Filtros) -->
+        <section class="bg-white p-4 rounded-xl shadow-sm border border-slate-200 flex flex-col sm:flex-row gap-4 items-center justify-between">
+            <div class="flex flex-col sm:flex-row gap-4 w-full sm:w-auto">
+                <div>
+                    <label for="filterGenre" class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1">Filtrar por Género</label>
+                    <select id="filterGenre" class="w-full sm:w-48 bg-slate-50 border border-slate-300 rounded-lg p-2 text-sm focus:ring-2 focus:ring-indigo-500 outline-none">
+                        <option value="ALL">Todos los Géneros</option>
+                    </select>
+                </div>
+                <div>
+                    <label for="filterEra" class="block text-xs font-semibold text-slate-500 uppercase tracking-wider mb-1">Filtrar por Década</label>
+                    <select id="filterEra" class="w-full sm:w-48 bg-slate-50 border border-slate-300 rounded-lg p-2 text-sm focus:ring-2 focus:ring-indigo-500 outline-none">
+                        <option value="ALL">Todas las Décadas</option>
+                        <option value="1980">Década 1980s</option>
+                        <option value="1990">Década 1990s</option>
+                        <option value="2000">Década 2000s</option>
+                        <option value="2010">Década 2010s</option>
+                        <option value="2020">Década 2020s</option>
+                    </select>
+                </div>
+            </div>
+            <button id="resetFilters" class="w-full sm:w-auto px-4 py-2 bg-slate-200 hover:bg-slate-300 text-slate-700 text-sm font-medium rounded-lg transition-colors">
+                Restablecer Filtros
+            </button>
+        </section>
+
+        <!-- INDICADORES CLAVE (KPIs) (Fase 2, Req. KPIs) -->
+        <section class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-indigo-600">
+                <p class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Total Juegos Analizados</p>
+                <h2 id="kpiTotalGames" class="text-3xl font-bold text-slate-800 mt-1">-</h2>
+            </div>
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-emerald-500">
+                <p class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Votos Totales Acumulados</p>
+                <h2 id="kpiTotalVotes" class="text-3xl font-bold text-slate-800 mt-1">-</h2>
+            </div>
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-amber-500">
+                <p class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Promedio Votos por Juego</p>
+                <h2 id="kpiAvgVotes" class="text-3xl font-bold text-slate-800 mt-1">-</h2>
+            </div>
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200 border-l-4 border-l-purple-500">
+                <p class="text-xs font-semibold text-slate-400 uppercase tracking-wider">Año Pico de Lanzamientos</p>
+                <h2 id="kpiPeakYear" class="text-3xl font-bold text-slate-800 mt-1">-</h2>
+            </div>
+        </section>
+
+        <!-- GRID DE VISUALIZACIONES (5 Visualizaciones de distinto tipo) -->
+        <section class="grid grid-cols-1 lg:grid-cols-2 gap-6">
+
+            <!-- Visualización 1: Gráfica de Líneas (Tendencia Temporal) -->
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                <h3 class="text-base font-semibold text-slate-800 mb-4">1. Evolución Temporal de Lanzamientos (Líneas)</h3>
+                <div class="relative h-64">
+                    <canvas id="chartTemporal"></canvas>
+                </div>
+            </div>
+
+            <!-- Visualización 2: Gráfica de Barras Verticales (Distribución por Género) -->
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                <h3 class="text-base font-semibold text-slate-800 mb-4">2. Votos Totales por Género Principal (Barras)</h3>
+                <div class="relative h-64">
+                    <canvas id="chartGenres"></canvas>
+                </div>
+            </div>
+
+            <!-- Visualización 3: Gráfica de Barras Horizontales (Top 10 Juegos) -->
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                <h3 class="text-base font-semibold text-slate-800 mb-4">3. Top 10 Videojuegos más Votados (Barras Horizontales)</h3>
+                <div class="relative h-64">
+                    <canvas id="chartTopGames"></canvas>
+                </div>
+            </div>
+
+            <!-- Visualización 4: Gráfica de Dispersión (Ranking vs Votos) -->
+            <div class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+                <h3 class="text-base font-semibold text-slate-800 mb-4">4. Relación Posición Ranking vs. Votos (Dispersión)</h3>
+                <div class="relative h-64">
+                    <canvas id="chartScatter"></canvas>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Visualización 5: Tabla de Datos Detallada -->
+        <section class="bg-white p-5 rounded-xl shadow-sm border border-slate-200">
+            <h3 class="text-base font-semibold text-slate-800 mb-4">5. Detalle del Catálogo de Videojuegos (Tabla de Datos)</h3>
+            <div class="overflow-x-auto max-h-80">
+                <table class="w-full text-sm text-left text-slate-600">
+                    <thead class="text-xs text-slate-500 uppercase bg-slate-50 sticky top-0">
+                        <tr>
+                            <th class="px-4 py-3">Ranking</th>
+                            <th class="px-4 py-3">Nombre del Videojuego</th>
+                            <th class="px-4 py-3">Año</th>
+                            <th class="px-4 py-3">Género Principal</th>
+                            <th class="px-4 py-3 text-right">Votos</th>
+                        </tr>
+                    </thead>
+                    <tbody id="tableBody" class="divide-y divide-slate-100">
+                        <!-- Se llena dinámicamente -->
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+    </main>
+
+    <!-- Script de Carga de Datos y Gráficas -->
+    <script>
+        let rawData = [];
+        let chartLineInstance = null;
+        let chartBarInstance = null;
+        let chartTopInstance = null;
+        let chartScatterInstance = null;
+
+        // Carga inicial de datos desde games_data.json
+        fetch('games_data.json')
+            .then(response => response.json())
+            .then(data => {
+                rawData = data;
+                populateGenreFilter(rawData);
+                updateDashboard(rawData);
+            })
+            .catch(error => console.error('Error cargando los datos:', error));
+
+        // Llenar selector de géneros dinámicamente
+        function populateGenreFilter(data) {
+            const genres = [...new Set(data.map(item => item.Genre_1).filter(Boolean))].sort();
+            const select = document.getElementById('filterGenre');
+            genres.forEach(genre => {
+                const opt = document.createElement('option');
+                opt.value = genre;
+                opt.textContent = genre;
+                select.appendChild(opt);
+            });
+        }
+
+        // Aplicar filtros
+        function getFilteredData() {
+            const genre = document.getElementById('filterGenre').value;
+            const era = document.getElementById('filterEra').value;
+
+            return rawData.filter(item => {
+                const matchGenre = (genre === 'ALL') || (item.Genre_1 === genre);
+                let matchEra = true;
+                if (era !== 'ALL') {
+                    const startYear = parseInt(era);
+                    matchEra = (item.Year >= startYear && item.Year < startYear + 10);
+                }
+                return matchGenre && matchEra;
+            });
+        }
+
+        // Actualizar todos los elementos del dashboard
+        function updateDashboard(data) {
+            // 1. KPIs
+            const totalGames = data.length;
+            const totalVotes = data.reduce((sum, d) => sum + (d.Votes || 0), 0);
+            const avgVotes = totalGames > 0 ? Math.round(totalVotes / totalGames) : 0;
+            
+            const yearCounts = {};
+            data.forEach(d => { if(d.Year) yearCounts[d.Year] = (yearCounts[d.Year] || 0) + 1; });
+            const peakYear = Object.keys(yearCounts).reduce((a, b) => yearCounts[a] > yearCounts[b] ? a : b, '-');
+
+            document.getElementById('kpiTotalGames').innerText = totalGames.toLocaleString();
+            document.getElementById('kpiTotalVotes').innerText = totalVotes.toLocaleString();
+            document.getElementById('kpiAvgVotes').innerText = avgVotes.toLocaleString();
+            document.getElementById('kpiPeakYear').innerText = peakYear;
+
+            // 2. Gráficas
+            renderTemporalChart(data);
+            renderGenreChart(data);
+            renderTopGamesChart(data);
+            renderScatterChart(data);
+
+            // 3. Tabla
+            renderTable(data);
+        }
+
+        // Visualización 1: Líneas (Años)
+        function renderTemporalChart(data) {
+            const countsByYear = {};
+            data.forEach(d => { if(d.Year) countsByYear[d.Year] = (countsByYear[d.Year] || 0) + 1; });
+            const sortedYears = Object.keys(countsByYear).sort((a,b) => a - b);
+
+            const ctx = document.getElementById('chartTemporal').getContext('2d');
+            if(chartLineInstance) chartLineInstance.destroy();
+
+            chartLineInstance = new Chart(ctx, {
+                type: 'line',
+                data: {
+                    labels: sortedYears,
+                    datasets: [{
+                        label: 'Cantidad de Juegos',
+                        data: sortedYears.map(y => countsByYear[y]),
+                        borderColor: '#4f46e5',
+                        backgroundColor: 'rgba(79, 70, 229, 0.1)',
+                        fill: true,
+                        tension: 0.3
+                    }]
+                },
+                options: { responsive: true, maintainAspectRatio: false }
+            });
+        }
+
+        // Visualización 2: Barras (Géneros)
+        function renderGenreChart(data) {
+            const votesByGenre = {};
+            data.forEach(d => {
+                if(d.Genre_1) votesByGenre[d.Genre_1] = (votesByGenre[d.Genre_1] || 0) + d.Votes;
+            });
+            const sortedGenres = Object.keys(votesByGenre).sort((a,b) => votesByGenre[b] - votesByGenre[a]).slice(0, 8);
+
+            const ctx = document.getElementById('chartGenres').getContext('2d');
+            if(chartBarInstance) chartBarInstance.destroy();
+
+            chartBarInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: sortedGenres,
+                    datasets: [{
+                        label: 'Votos Acumulados',
+                        data: sortedGenres.map(g => votesByGenre[g]),
+                        backgroundColor: '#10b981'
+                    }]
+                },
+                options: { responsive: true, maintainAspectRatio: false }
+            });
+        }
+
+        // Visualización 3: Barras Horizontales (Top 10 Juegos)
+        function renderTopGamesChart(data) {
+            const sortedTop = [...data].sort((a,b) => b.Votes - a.Votes).slice(0, 10);
+
+            const ctx = document.getElementById('chartTopGames').getContext('2d');
+            if(chartTopInstance) chartTopInstance.destroy();
+
+            chartTopInstance = new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: sortedTop.map(d => d.Name.length > 20 ? d.Name.substring(0, 20) + '...' : d.Name),
+                    datasets: [{
+                        label: 'Votos',
+                        data: sortedTop.map(d => d.Votes),
+                        backgroundColor: '#f59e0b'
+                    }]
+                },
+                options: {
+                    indexAxis: 'y',
+                    responsive: true,
+                    maintainAspectRatio: false
+                }
+            });
+        }
+
+        // Visualización 4: Dispersión (Ranking vs Votos)
+        function renderScatterChart(data) {
+            const scatterData = data.map(d => ({ x: d.Ranking, y: d.Votes }));
+
+            const ctx = document.getElementById('chartScatter').getContext('2d');
+            if(chartScatterInstance) chartScatterInstance.destroy();
+
+            chartScatterInstance = new Chart(ctx, {
+                type: 'scatter',
+                data: {
+                    datasets: [{
+                        label: 'Juegos (Ranking vs Votos)',
+                        data: scatterData,
+                        backgroundColor: 'rgba(147, 51, 234, 0.5)'
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        x: { title: { display: true, text: 'Posición en Ranking' } },
+                        y: { title: { display: true, text: 'Votos' } }
+                    }
+                }
+            });
+        }
+
+        // Visualización 5: Tabla de datos
+        function renderTable(data) {
+            const tbody = document.getElementById('tableBody');
+            tbody.innerHTML = '';
+            
+            data.slice(0, 50).forEach(item => {
+                const tr = document.createElement('tr');
+                tr.className = "hover:bg-slate-50 transition-colors";
+                tr.innerHTML = `
+                    <td class="px-4 py-2 font-semibold">#${item.Ranking}</td>
+                    <td class="px-4 py-2 font-medium text-slate-800">${item.Name}</td>
+                    <td class="px-4 py-2">${item.Year || 'N/A'}</td>
+                    <td class="px-4 py-2"><span class="bg-indigo-50 text-indigo-700 px-2 py-1 rounded text-xs">${item.Genre_1 || 'Sin género'}</span></td>
+                    <td class="px-4 py-2 text-right font-mono">${(item.Votes || 0).toLocaleString()}</td>
+                `;
+                tbody.appendChild(tr);
+            });
+        }
+
+        // Eventos de Filtros
+        document.getElementById('filterGenre').addEventListener('change', () => updateDashboard(getFilteredData()));
+        document.getElementById('filterEra').addEventListener('change', () => updateDashboard(getFilteredData()));
+        document.getElementById('resetFilters').addEventListener('click', () => {
+            document.getElementById('filterGenre').value = 'ALL';
+            document.getElementById('filterEra').value = 'ALL';
+            updateDashboard(rawData);
+        });
+    </script>
+</body>
+</html>
